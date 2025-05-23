@@ -5,7 +5,7 @@ USE interview;
 CREATE TABLE  employee (
     emp_id INT PRIMARY KEY,
     emp_name VARCHAR(50),
-    salary INT
+    salary INT 
 );
 
 -- Sample data insertion (optional, add this if you want to test)
