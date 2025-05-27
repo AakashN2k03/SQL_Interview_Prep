@@ -5,7 +5,7 @@ CREATE TABLE employee_9 (
     EmployeeID INT PRIMARY KEY,
     Name VARCHAR(50),
     Salary INT,
-    updated_at DATETIME
+    updated_at DATETIME 
 );
 
 INSERT INTO employee_9 (EmployeeID, Name, Salary, updated_at) VALUES
