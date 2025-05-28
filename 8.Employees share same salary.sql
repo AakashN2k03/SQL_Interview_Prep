@@ -12,7 +12,8 @@ select salary,count(*)
 from employee_5
 group by salary
 
- if name also needed
+ -- if name also needed
+    
 select group_concat(name) as name,salary,count(*)
 from employee_5
 group by salary
