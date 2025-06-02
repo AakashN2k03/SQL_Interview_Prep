@@ -1,7 +1,7 @@
 -- Use the database
 USE interview;
 
-CCREATE TABLE employee_7 (
+CREATE TABLE employee_7 (
     EmployeeID INT,
     Name VARCHAR(50),
     Department VARCHAR(50)
